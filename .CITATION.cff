@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this template, please cite it as below."
+title: "MNCH+N Performance Dashboard: a Power BI template for maternal, newborn, child health and nutrition programme monitoring"
+type: software
+authors:
+  - family-names: Luke
+    given-names: Moses
+    orcid: "https://orcid.org/0000-0002-0600-6660"
+repository-code: "https://github.com/Moses-L/mnchn-performance-dashboard"
+license: MIT
+version: "1.0.1"
+date-released: "2026-11-22"
+keywords:
+  - Power BI
+  - DHIS2
+  - ODK Central
+  - maternal health
+  - newborn health
+  - nutrition
+  - health information systems
+  - monitoring and evaluation
+  - data science
