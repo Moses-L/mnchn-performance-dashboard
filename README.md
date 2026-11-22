@@ -10,9 +10,9 @@
   <img alt="DHIS2" src="https://img.shields.io/badge/DHIS2-Web%20API-2C6693">
   <img alt="ODK Central" src="https://img.shields.io/badge/ODK%20Central-OData-1F8A70">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-lightgrey">
+  <a href="https://doi.org/10.5281/zenodo.24438732"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.24438732.svg"></a>
 </p>
 
-<a href="https://doi.org/10.5281/zenodo.24438732"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.24438732.svg"></a>
 
 ## Overview
 
@@ -129,8 +129,10 @@ Questions, ideas for reuse in another state or country, or a bug in a measure: o
 ## Citation
 
 ```
-Luke, M. (2026). MNCH+N Performance Dashboard: a Power BI template for maternal, newborn, child health and nutrition programme monitoring (Version 1.0.1) [Computer software].
-Zenodo. https://doi.org/10.5281/zenodo.24438732
+Luke, M. (2026). MNCH+N Performance Dashboard: a Power BI template for
+maternal, newborn, child health and nutrition programme monitoring
+(Version 1.0.1) [Computer software]. Zenodo.
+https://doi.org/10.5281/zenodo.24438732
 ```
 
 ## License
