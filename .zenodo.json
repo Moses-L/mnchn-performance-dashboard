@@ -1,0 +1,37 @@
+{
+  "title": "MNCH+N Performance Dashboard: a Power BI template for maternal, newborn, child health and nutrition programme monitoring",
+  "upload_type": "software",
+  "description": "<p>A data-free Power BI template (.pbit) for monitoring maternal, newborn, child health and nutrition (MNCH+N) programmes. It joins routine facility data from DHIS2, community health worker records from ODK Central, and facility programme files in one import model.</p><p>The report has 12 pages and 319 DAX measures. It scores 12 indicators against target (on track, watch, off track, check data), flags implausible values such as coverage above 100 percent, and drills down from district (LGA) to facility. A community module tracks household visits, dialogues and sessions. All data sources and credentials are Power Query parameters, so the template can be pointed at any DHIS2 instance and ODK Central server.</p><p>Originally built for 107 health facilities in 16 LGAs of Bauchi State, Nigeria. No data, credentials or server addresses are included.</p>",
+  "creators": [
+    {
+      "name": "Luke, Moses",
+      "orcid": "0000-0002-0600-6660"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "Power BI",
+    "DAX",
+    "DHIS2",
+    "ODK Central",
+    "maternal health",
+    "newborn health",
+    "child health",
+    "nutrition",
+    "health information systems",
+    "monitoring and evaluation",
+    "data quality",
+    "data science",
+    "dashboard",
+    "Nigeria",
+    "global health"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Moses-L/mnchn-performance-dashboard",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
