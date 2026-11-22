@@ -44,7 +44,7 @@ The aim was simple. A state programme manager should be able to open one report 
 ![Executive summary](docs/screenshots/executive-summary.png)
 ![LGA to facility drill-down](docs/screenshots/drilldown.png)
 ![Community outreach](docs/screenshots/community.png)
-![Backstop accountability matrix](docs/screenshots/backstop.png)
+![Key indicators](docs/screenshots/key-indicators.png)
 
 ## How it is built
 
