@@ -129,8 +129,7 @@ Questions, ideas for reuse in another state or country, or a bug in a measure: o
 ## Citation
 
 ```
-Luke, M. (2026). MNCH+N Performance Dashboard: a Power BI template for maternal,
-newborn, child health and nutrition programme monitoring (Version 1.0.1) [Computer software].
+Luke, M. (2026). MNCH+N Performance Dashboard: a Power BI template for maternal, newborn, child health and nutrition programme monitoring (Version 1.0.1) [Computer software].
 Zenodo. https://doi.org/10.5281/zenodo.24438732
 ```
 
