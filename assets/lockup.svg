@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 262 64" width="262" height="64">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#0B2A4A"/>
+  <rect x="12" y="38" width="7.5" height="13" rx="2" fill="#5D7FA6"/>
+  <rect x="23" y="32" width="7.5" height="19" rx="2" fill="#8FB1D6"/>
+  <rect x="34" y="26" width="7.5" height="25" rx="2" fill="#FFFFFF"/>
+  <polyline points="11,28 22,20.5 33,22.5 49,11" fill="none" stroke="#F04E23" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="49.5" cy="11" r="3.4" fill="#F04E23"/>
+  <path d="M51.2 52.2l-5.7-5.4c-1.5-1.5-1.5-3.9 0-5.4 1.5-1.5 3.9-1.5 5.3 0l.4.4.4-.4c1.5-1.5 3.9-1.5 5.3 0 1.5 1.5 1.5 3.9 0 5.4z" fill="#F04E23"/>
+  <text x="74" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#0B2A4A" letter-spacing="0.4">MNCH+N</text>
+  <text x="75" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#F04E23" letter-spacing="1.7">PERFORMANCE ANALYTICS</text>
+</svg>

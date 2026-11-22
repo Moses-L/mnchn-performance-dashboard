@@ -1,0 +1,20 @@
+# Never commit data-bearing Power BI files
+*.pbix
+*.pbix.bak
+# Power BI Project caches (if you later switch to .pbip)
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+# Data and credentials
+*.csv
+*.xlsx
+*.xls
+*.parquet
+.env
+*secret*
+*credential*
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
