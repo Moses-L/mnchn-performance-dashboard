@@ -12,8 +12,6 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-lightgrey">
 </p>
 
-\---
-
 ## Overview
 
 This dashboard brings three data streams that usually live apart into one model: routine facility reporting from DHIS2 (Nigeria's NHMIS), community health worker records collected on ODK Central, and facility-level programme extracts. It was built to track MNCH+N service delivery across 107 health facilities in 16 Local Government Areas (LGAs) of Bauchi State, Nigeria, for the October 2025 to September 2026 reporting year.
